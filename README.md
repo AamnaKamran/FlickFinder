@@ -42,3 +42,7 @@ datasets/muqarrishzaib/tmdb-10000-movies-dataset/versions/1/TMDB 10000 Movies Da
 * **Scikit-learn** - TF-IDF and cosine similarity
 * **TheFuzz** - Fuzzy matching
 * **KaggleHub** (optional) - Downloading Kaggle datasets
+
+## 🎞️ Demo
+
+![FlickFinder Demo](assets/FlickFinder.gif)
